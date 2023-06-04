@@ -1,0 +1,13 @@
+   body {
+      background-color: black;
+      color: #ff0080;
+    }
+    
+    h1 {
+      color: #ff0080;
+    }    
+    .top {
+      position: fixed;
+      top: 0;
+      left: 0;
+    }
